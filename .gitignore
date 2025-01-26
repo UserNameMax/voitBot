@@ -47,3 +47,4 @@ bin/
 /src/main/resources/botToken
 /src/main/resources/connectionString
 /.idea/
+/local.properties
